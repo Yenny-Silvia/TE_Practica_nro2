@@ -1,12 +1,17 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Principal</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>LISTA DE FORMULARIOS</h1>
+        <ul>
+            <li>Inscripciones de Cursos <a href="index1.jsp">LLENAR</a></li>
+            <li>Registro de Usuarios <a href="index2.jsp">LLENAR</a></li>
+            <li>Registro de Productos <a href="index3.jsp">LLENAR</a></li>
+            <li>Registro de Libros <a href="index4.jsp">LLENAR</a></li>
+        </ul>
     </body>
 </html>
